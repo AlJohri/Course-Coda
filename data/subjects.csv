@@ -1,0 +1,112 @@
+id,title
+1,EECS Electrical Engineering & Computer Science
+2,HEBREW Hebrew
+3,AAL African and Asian Languages
+4,ARABIC Arabic
+5,CHINESE Chinese
+6,DSGN Segal Design Institute
+7,MECH_ENG Mechanical Engineering
+8,CHEM_ENG Chemical Engineering
+9,CHEM Chemistry
+10,CIV_ENG Civil Engineering
+11,ECON Economics
+12,GEN_ENG General Engineering
+13,MATH Mathematics
+14,PHYSICS Physics
+15,HISTORY History
+16,MAT_SCI Materials Science & Engineering
+17,MMSS Math Methods in the Social Sciences
+18,MUSIC Music
+19,PSYCH Psychology
+20,RTVF Radio/Television/Film
+21,POLI_SCI Political Science
+22,SPANISH Spanish
+23,STAT Statistics
+24,IEMS Industrial Engineering & Management Sciences
+25,AFST African Studies
+26,AF_AM_ST African American Studies
+27,ALT_CERT Alternative Certification
+28,AMER_ST American Studies
+29,AMES Asian and Middle Eastern Studies
+30,ANTHRO Anthropology
+31,ART_HIST Art History
+32,ASIAN_AM Asian American Studies
+33,ASTRON Astronomy
+34,BIOL_SCI Biological Sciences
+35,BMD_ENG Biomedical Engineering
+36,BUS_INST Business Institutions
+37,CFS Chicago Field Studies
+38,CIV_ENV Civil and Environmental Engineering
+39,CLASSICS Classics - Readings in English
+40,GEN_CMN General Communication & Introductory Courses
+41,COG_SCI Cognitive Science
+42,COMM_ST Communication Studies
+43,COMP_LIT Comparative Literary Studies
+44,CONDUCT Conducting
+45,CRDV Career Development
+46,DANCE Dance
+47,EARTH Earth and Planetary Sciences
+48,EDIT Editorial
+49,ENGLISH English
+50,ENVR_POL Environmental Policy & Culture
+51,ENVR_SCI Environmental Science
+52,ES_APPM Engineering Science & Applied Math
+53,EUR_ST European Studies
+54,FRENCH French
+55,GBL_HLTH Global Health
+56,GEN_LA General Liberal Arts
+57,GEN_MUS General Music
+58,GEOG Geography
+59,GEOL_SCI Geological Sciences
+60,GERMAN German
+61,GNDR_ST Gender Studies
+62,HDPS Human Development & Psychological Services
+63,GREEK Greek
+64,HUM Humanities
+65,HINDI Hindi
+66,IDEA Institute for Design Engineering & Applications
+67,IMC Integrated Marketing Communications
+68,INTG_SCI Integrated Science
+69,INTL_ST International Studies
+70,ITALIAN Italian
+71,ISEN Initiative for Sustainability & Energy at NU
+72,JAPANESE Japanese
+73,JAZZ_ST Jazz Studies
+74,JOUR Journalism
+75,JWSH_ST Jewish Studies
+76,KELLG_FE Financial Economics
+77,KELLG_MA Managerial Analytics
+78,KOREAN Korean
+79,LATINO Latina and Latino Studies
+80,LATIN Latin
+81,LATIN_AM Latin American & Caribbean Studies
+82,LING Linguistics
+83,LEGAL_ST Legal Studies
+84,LOC Learning & Organizational Change
+85,LDRSHP Leadership
+86,MUSICOL Musicology
+87,MUSIC_ED Music Education
+88,MUS_TECH Music Technology
+89,MUS_THRY Music Theory
+90,PERF_ST Performance Studies
+91,MUS_COMP Music Composition
+92,PERSIAN Persian
+93,PIANO Piano
+94,PHIL Philosophy
+95,PRDV Personal Development
+96,PORT Portuguese
+97,RELIGION Religious Studies
+98,SESP School of Education & Social Policy Core
+99,TURKISH Turkish
+100,SLAVIC Slavic Languages & Literature
+101,SOCIOL Sociology
+102,SOC_POL Social Policy
+103,STRINGS String Instruments
+104,SWAHILI Swahili
+105,TEACH_ED Teacher Education
+106,THEATRE Theatre
+107,TRANS Transportation
+108,URBAN_ST Urban Studies
+109,VOICE Voice & Opera
+110,WIND_PER Wind & Percussion
+111,WRITING Writing Arts
